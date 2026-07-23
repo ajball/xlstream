@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ajball/xlstream"
+    "url": "git+https://github.com/ajball/xlstream.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Claviz/xlstream/issues"
+    "url": "https://github.com/ajball/xlstream/issues"
   },
-  "homepage": "https://github.com/Claviz/xlstream#readme",
+  "homepage": "https://github.com/ajball/xlstream#readme",
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@types/node": "^20.12.12",
