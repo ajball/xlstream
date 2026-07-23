@@ -1,7 +1,7 @@
 {
-  "name": "xlstream",
-  "version": "2.5.5",
-  "description": "Turns XLSX into a readable stream.",
+  "name": "@ajball/xlstream",
+  "version": "2.5.5-fork.1",
+  "description": "Fork of xlstream with deterministic ZIP cleanup",
   "main": "lib/index",
   "types": "lib/index",
   "scripts": {
